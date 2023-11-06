@@ -1,5 +1,4 @@
-import test
-from mdFile import mdFile
+
 # Press the green button in the gutter to run the script.
 from fileOperation import save, load
 from mdFile import mdFile

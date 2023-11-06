@@ -17,5 +17,3 @@ def timeDiff(time1_str,time2_str):
     minutes = (total_seconds % 3600) // 60
     return f"{int(hours)} 小时 {int(minutes)} 分钟"
 
-#测试
-print(timeDiff('20231030 13:42:02','20231030 15:45:02'))
